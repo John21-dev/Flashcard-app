@@ -1,2 +1,2 @@
 # Flashcard-app
-A flashcard-app using JavaScript, HTML, CSS, React and API.
+A flashcard-app using JavaScript, CSS, React and API.
